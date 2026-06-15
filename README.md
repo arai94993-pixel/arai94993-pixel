@@ -1,4 +1,11 @@
 ## Hi there 👋
+Hi, I’m a recent high school graduate with a strong foundation in computer programming. 
+
+I have solid knowledge of coding principles, and I’m familiar with languages like C and C++. 
+
+While I’m just starting out in freelancing, I’m eager to apply my coding skills to entry-level projects like basic programming tasks, small scripts, or tech support. 
+
+I’m a fast learner, detail-oriented, and excited to bring value to your project. Let’s build something great together!
 
 <!--
 **arai94993-pixel/arai94993-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
